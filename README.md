@@ -13,12 +13,12 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jensjenka&show_icons=true&locale=en&langs_count=8&bg_color=ffffff" alt="jensjenka" /> </p>
 
         
-        
+       
 <h3 align="center">Reach me on:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/jens-jenka/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/jens-jenka-047064152/" target="blank"><img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="https://www.linkedin.com/in/jens-jenka/" /></a>
+            alt="https://www.linkedin.com/in/jens-jenka-047064152/" /></a>
     <p align="center">
         <a href="mailto:jensjk@hotmail.com" target="blank"><img align="center"
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -27,4 +27,4 @@
 
 
 
-### ⚡ Fun fact: hella charming and funnny in person :P
+<h2 align="center"> ⚡ Fun fact: hella charming and funnny in person :P </h2>
