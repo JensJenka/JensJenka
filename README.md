@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2 align="center"> Hi there || Hei på deg || Bienvenue chez moi!👋 </h2>
 
-<!--
-**JensJenka/JensJenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="center"><em> Bachelors in Programming and Shipping & Logistics </em></h5><br>
+<h4 align="center"> Proficient in C#, Java & Kotlin (React if I must) && I enjoy database management, developing API´s and architecture meetings</h4>
 
-Here are some ideas to get you started:
+<br>
+<br>
+    
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jensjenka&show_icons=true&bg_color=ffffff" alt="jensjenka" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jensjenka&show_icons=true&locale=en&langs_count=8&bg_color=ffffff" alt="jensjenka" /> </p>
+
+        
+        
+<h3 align="center">Reach me on:</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/jens-jenka/" target="blank"><img align="center"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="https://www.linkedin.com/in/jens-jenka/" /></a>
+    <p align="center">
+        <a href="mailto:jensjk@hotmail.com" target="blank"><img align="center"
+                src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+                alt="jensjk@hotmail.com" /></a>
+    </p>
+
+
+
+### ⚡ Fun fact: hella charming and funnny in person :P
